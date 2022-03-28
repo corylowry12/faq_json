@@ -1,6 +1,7 @@
 {"faq":[  
-    {"question":"Q: Why are all sorting methods in HIstory not showing up?","answer":"A: if all sorting methods arent showing up, it is because you have some hours stored in the time format. The SQLite database in which hours are stored can not sort the entries if they are not in decimal format."},
+    {"question":"Q: Why are all sorting methods in History not showing up?","answer":"A: if all sorting methods arent showing up, it is because you have some hours stored in the time format. The SQLite database in which hours are stored can not sort the entries if they are not in decimal format."},
     {"question":"Q: Why is the system theming option not showing up in the Appearance Settings?","answer":"A: If you are not on Android 12 or later, the system theming option will not show up. Because prior version didn't have the System Theming API."},
-    {"question":"Q: How do i report a bug?","answer":"A: Go to the Settings tab via the navigation bar at the bottom, then click on report a bug and create a new issue in the Github repository."}
+    {"question":"Q: How do i report a bug?","answer":"A: Go to the Settings tab via the navigation bar at the bottom, then click on report a bug and create a new issue in the Github repository."},
+     {"question":"Q: How do i report a bug?","answer":"A: Go to the Settings tab via the navigation bar at the bottom, then click on report a bug and create a new issue in the Github repository."}
    ]
 }  
